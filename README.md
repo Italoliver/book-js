@@ -10,7 +10,7 @@
 
 ## [Cap00 - Introdução](Capítulos/introducao.md)
 
-## [Cap01 - O que é JavaScript e por que ele importa](.md)
+## [Cap01 - O que é JavaScript e por que ele importa](Capítulos/cap01.md)
 - História da linguagem
 - Onde o JavaScript é usado
 - Como ele funciona no navegador
