@@ -2,7 +2,7 @@
 
 **Bloco de anotações sobre JavaScript!**
 
-![Capa-JavaScript](Imagens/capa-js.png)
+<img src=Imagens/capa-js.png width="300" />
 
 ## Conteúdo
 
