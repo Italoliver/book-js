@@ -20,12 +20,12 @@
 ## [Cap02 - Preparando o ambiente](.md)
 - Instalando um editor de código
 - Console do navegador
-- Criando seu primeiro arquivo .js
+- Criando seu primeiro arquivo `.js`
 - Como conectar JavaScript ao HTML
 #### Aqui o leitor monta seu primeiro ambiente de desenvolvimento. Você explica como instalar um editor de código, usar o console do navegador, criar arquivos HTML e JS e conectar os dois. O objetivo é deixar tudo pronto para começar a programar sem complicações.
 
 ## [Cap03 - Variáveis e tipos de dados](.md)
-- let, const e var
+- `let`, `const` e `var`
 - Tipos primitivos
 - Boas práticas de nomeação
 - Conversões de tipo
@@ -39,11 +39,11 @@
 #### Este capítulo ensina como o JavaScript realiza cálculos e decisões. Você apresenta operadores matemáticos, lógicos, de comparação e atribuição. Também explica precedência, agrupamento e como montar expressões que o computador entende.
 
 ## [Cap05 - Estruturas de controle](.md)
-- if, else, else if
-- switch
-- Loops: for, while, do...while
+- `if`, `else`, `else if`
+- `switch`
+- Loops: `for`, `while`, `do...while`
 - Quando usar cada um
-#### Agora o leitor aprende a controlar o fluxo do programa. Você explica if, else, switch, loops (for, while, do...while) e quando usar cada um. O foco é mostrar como o código toma decisões e repete ações.
+#### Agora o leitor aprende a controlar o fluxo do programa. Você explica `if`, `else`, `switch`, loops (`for`, `while`, `do...while`) e quando usar cada um. O foco é mostrar como o código toma decisões e repete ações.
 
 ## [Cap06 - Funções: o coração do JavaScript](.md)
 - Declaração e execução
@@ -54,10 +54,10 @@
 
 ## [Cap07 - Arrays e objetos](.md)
 - Criando e manipulando arrays
-- Métodos essenciais (map, filter, reduce)
+- Métodos essenciais (`map`, `filter`, `reduce`)
 - Objetos e propriedades
 - Acessando e modificando dados
-#### O leitor descobre como armazenar e organizar dados. Você explica como criar arrays, acessar elementos, usar métodos essenciais (map, filter, reduce) e trabalhar com objetos, propriedades e estruturas mais complexas. Este capítulo prepara o terreno para manipulação de dados real.
+#### O leitor descobre como armazenar e organizar dados. Você explica como criar arrays, acessar elementos, usar métodos essenciais (`map`, `filter`, `reduce`) e trabalhar com objetos, propriedades e estruturas mais complexas. Este capítulo prepara o terreno para manipulação de dados real.
 
 ## [Cap08 - Manipulação do DOM](.md)
 - Selecionando elementos
@@ -69,9 +69,9 @@
 ## [Cap09 - Assíncronismo: entendendo o tempo no JavaScript](.md)
 - Callbacks
 - Promises
-- async e await
+- `async` e `await`
 - Como lidar com requisições externas
-#### Um dos temas mais importantes da linguagem. Você explica o que é assíncronismo, como funcionam callbacks, promises e async/await, e como lidar com requisições externas. O objetivo é desmistificar o assunto e mostrar que não é tão complicado quanto parece.
+#### Um dos temas mais importantes da linguagem. Você explica o que é assíncronismo, como funcionam callbacks, promises e `async/await`, e como lidar com requisições externas. O objetivo é desmistificar o assunto e mostrar que não é tão complicado quanto parece.
 
 ## [Cap10 - Boas práticas e próximos passos](.md)
 - Organização de código
