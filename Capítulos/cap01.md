@@ -1,6 +1,6 @@
-#📘 Capítulo 1 — O que é JavaScript e por que ele importa
+# 📘Capítulo 1 — O que é JavaScript e por que ele importa
 
-##🌟 1.1. A linguagem que move a web
+## 🌟1.1. A linguagem que move a web
 
 JavaScript é uma das linguagens de programação mais influentes do mundo. Se você já clicou em um botão que abriu um menu, preencheu um formulário que avisou que algo estava errado ou viu uma animação em um site, provavelmente o JavaScript estava trabalhando nos bastidores.
 
@@ -20,7 +20,7 @@ JavaScript deixou de ser apenas “a linguagem do navegador” e se tornou uma l
 
 ---
 
-##🧠 1.2. Por que aprender JavaScript?
+## 🧠1.2. Por que aprender JavaScript?
 
 Aprender JavaScript é abrir portas. Ele é uma das linguagens mais procuradas no mercado e uma das mais versáteis. Com ele, você pode:
 
@@ -35,7 +35,7 @@ Além disso, JavaScript tem uma curva de aprendizado amigável. Você não preci
 
 ---
 
-##🌐 1.3. Onde o JavaScript roda?
+## 🌐1.3. Onde o JavaScript roda?
 
 Originalmente, JavaScript rodava apenas no navegador. Mas isso mudou com o surgimento do **Node.js**, que levou a linguagem para o lado do servidor.
 
@@ -51,7 +51,7 @@ Essa flexibilidade faz dele uma das linguagens mais poderosas da atualidade.
 
 ---
 
-##🧩 1.4. Como o JavaScript funciona no navegador
+## 🧩1.4. Como o JavaScript funciona no navegador
 
 Quando você abre um site, o navegador carrega três tecnologias principais:
 
@@ -73,7 +73,7 @@ Ele é o cérebro da página.
 
 ---
 
-##⚙️ 1.5. O motor JavaScript (JavaScript Engine)
+## ⚙️1.5. O motor JavaScript (JavaScript Engine)
 
 Cada navegador possui um mecanismo interno que interpreta e executa o JavaScript. Alguns exemplos:
 
@@ -85,7 +85,7 @@ Esses motores transformam seu código em instruções que o computador entende.
 
 ---
 
-##🚀 1.6. O impacto do JavaScript no mundo moderno
+## 🚀1.6. O impacto do JavaScript no mundo moderno
 
 Sem JavaScript, a web seria um lugar muito mais limitado. Ele permitiu o surgimento de:
 
@@ -98,7 +98,7 @@ JavaScript não é apenas uma linguagem: é um ecossistema inteiro em constante 
 
 ---
 
-##🏁 1.7. Conclusão do capítulo
+## 🏁1.7. Conclusão do capítulo
 
 Neste capítulo, você descobriu:
 
@@ -112,7 +112,7 @@ Agora que você entende o papel da linguagem, está pronto para montar seu ambie
 
 ---
 
-#📝 Exercícios do Capítulo 1
+# 📝Exercícios do Capítulo 1
 
 ## 1. Perguntas de compreensão
 
