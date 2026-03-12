@@ -2,7 +2,9 @@
 
 **Bloco de anotações sobre JavaScript!**
 
-<img src=Imagens/capa-js.png width="300" />
+<p align="center">
+  <img src=Imagens/capa-js.png width="300" />
+</p>
 
 ## Conteúdo
 
