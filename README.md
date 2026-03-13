@@ -17,7 +17,7 @@
 - O papel do JS no desenvolvimento moderno
 #### Este capítulo apresenta o JavaScript de forma simples e motivadora. O leitor entenderá o que é a linguagem, como ela surgiu, por que se tornou tão popular e onde é usada hoje — navegadores, servidores, aplicativos, automações e muito mais. A ideia é mostrar o impacto real do JavaScript no mundo moderno e despertar curiosidade.
 
-## [Cap02 - Preparando o ambiente](.md)
+## [Cap02 - Preparando o ambiente](Capítulos/cap02.md)
 - Instalando um editor de código
 - Console do navegador
 - Criando seu primeiro arquivo `.js`
