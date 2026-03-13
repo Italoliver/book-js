@@ -1,6 +1,6 @@
 # O Alquimista do JavaScript📜🧙‍♂️
 
-**Bloco de anotações sobre JavaScript!**
+**Grimório que compila feitiços, rituais, encantamentos e instruções para a prática de magia ou JavaScript!**
 
 <p align="center">
   <img src=Imagens/capa-alquimista-js.png/>
