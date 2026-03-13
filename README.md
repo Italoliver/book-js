@@ -3,7 +3,7 @@
 **Bloco de anotações sobre JavaScript!**
 
 <p align="center">
-  <img src=Imagens/capa-js.png width="300" />
+  <img src=Imagens/capa-alquimista-js.png width="300" />
 </p>
 
 ## Conteúdo
