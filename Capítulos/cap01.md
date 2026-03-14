@@ -1,4 +1,5 @@
-# Saudações, jovem aprendiz de artes arcanas! 🧙‍♂️📜 Segure seu café (espero que seja forte e sem açúcar, como a vida de um sênior), pois você acaba de entrar na biblioteca do Alquimista do JavaScript.
+# Saudações, jovem aprendiz de artes arcanas! 🧙‍♂️📜
+Segure seu café (espero que seja forte e sem açúcar, como a vida de um sênior), pois você acaba de entrar na biblioteca do Alquimista do JavaScript.
 
 Aqui, não apenas digitamos código; nós dobramos a realidade do navegador à nossa vontade, tentamos não quebrar a produção na sexta-feira e, acima de tudo, fingimos que entendemos por que ```[] == ![]``` retorna ```true```.
 
