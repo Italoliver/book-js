@@ -1,4 +1,5 @@
-Saudações, jovem Padawan das chaves e semicolons! 🧙‍♂️📜 Se você sobreviveu ao Capítulo 1 sem tentar invocar um demônio usando apenas ```var```, parabéns. Agora vamos sujar as mãos.
+# Saudações, jovem Padawan das chaves e semicolons! 🧙‍♂️📜 
+Se você sobreviveu ao Capítulo 1 sem tentar invocar um demônio usando apenas ```var```, parabéns. Agora vamos sujar as mãos.
 
 Instalar um ambiente de desenvolvimento é como montar um laboratório de alquimia: se você colocar o caldeirão no lugar errado, a explosão não vai transmutar chumbo em ouro, vai apenas travar o seu Chrome com 47 abas de Stack Overflow abertas.
 
@@ -55,7 +56,7 @@ O Console do Navegador: No Chrome/Edge/Firefox, aperte ```F12``` ou ```Ctrl + Sh
 
 Extensão "Live Server": No VS Code, procure por "Live Server" nos ícones de quadrado no lado esquerdo. Instale. Isso vai abrir seu site magicamente no navegador e atualizar toda vez que você salvar. É o mais próximo de telepatia que chegaremos.
 
-🐱‍👤 O Pulo do Gato
+## 🐱‍👤 O Pulo do Gato
 A Regra de Ouro do ```<script>```: Nunca, jamais, em hipótese alguma coloque o seu ```<script src="script.js"></script>``` dentro do ```<head>``` sem usar o atributo ```defer``` a menos que você queira que seu site tente carregar a inteligência antes de ter um cérebro.
 
 Se você coloca no topo, o navegador tenta ler o JS antes de desenhar o botão na tela. Aí o JS tenta clicar no botão, não acha nada e joga um erro na sua cara. Colocando no final do ```<body>```, você garante que o HTML já "nasceu" antes do JS tentar dar ordens.
