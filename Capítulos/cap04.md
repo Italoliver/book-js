@@ -69,15 +69,15 @@ console.log(vouMaratonarSérie); // true -> Qualquer desculpa serve!
 ## 4.4. Precedência: Quem Manda na Bagunça? 👑
 ## A Tragédia 🎭
 Você escreve uma expressão gigante e o resultado dá -422.9. Você entra em pânico. Por quê? Porque o JavaScript segue uma hierarquia de poder mais rígida que a Família Real Britânica. Multiplicação manda mais que soma, e os Parênteses são os imperadores absolutos.
-O Conceito 'Para Humanos' 🗣️
-```
-Javascript
+## O Conceito 'Para Humanos' 🗣️
 Se você não usar parênteses (), o JavaScript vai decidir por conta própria o que calcular primeiro. Geralmente ele faz:
  * Parênteses (O Rei)
  * Exponenciação (O Duque)
  * Multiplicação e Divisão (Os Barões)
  * Soma e Subtração (Os Camponeses)
-O Código 'Vida Real' 💻
+## O Código 'Vida Real' 💻
+```
+Javascript
 // O que você acha que vai dar?
 let resultadoCaotico = 10 + 5 * 2; 
 // Se você pensou 30, errou! O JS fez 5 * 2 primeiro. Deu 20.
