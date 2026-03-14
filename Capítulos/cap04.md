@@ -32,7 +32,7 @@ O Conceito 'Para Humanos' 🗣️
  * ===: Compara valor E tipo. "5" === 5 é falso (False). É o padrão ouro.
  * != vs !==: O "não é igual". Mesma regra: use sempre os três tracinhos para não ter surpresas.
  * >, <, >=, <=: Os clássicos "maior que" e "menor que".
-O Código 'Vida Real' 💻
+## O Código 'Vida Real' 💻
 const salarioDev = 5000;
 const boletoVencido = "5000";
 
