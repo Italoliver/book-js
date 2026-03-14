@@ -55,7 +55,9 @@ O Conceito 'Para Humanos' 🗣️
  * && (AND): Exigente. Todo mundo tem que ser true para ele sorrir.
  * || (OR): Tranquilão. Se apenas um for true, ele já está festejando.
  * ! (NOT): O do contra. Se for true, ele vira false. É o adolescente rebelde do código.
-O Código 'Vida Real' 💻
+## O Código 'Vida Real' 💻
+```
+Javascript
 const temCafe = true;
 const internetFuncionando = false;
 
@@ -69,7 +71,7 @@ const estouCansado = true;
 // A desculpa para o Netflix
 const vouMaratonarSérie = eFinalDeSemana || estouCansado;
 console.log(vouMaratonarSérie); // true -> Qualquer desculpa serve!
-
+```
 ## 4.4. Precedência: Quem Manda na Bagunça? 👑
 ## A Tragédia 🎭
 Você escreve uma expressão gigante e o resultado dá -422.9. Você entra em pânico. Por quê? Porque o JavaScript segue uma hierarquia de poder mais rígida que a Família Real Britânica. Multiplicação manda mais que soma, e os Parênteses são os imperadores absolutos.
