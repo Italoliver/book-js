@@ -70,6 +70,8 @@ console.log(vouMaratonarSérie); // true -> Qualquer desculpa serve!
 ## A Tragédia 🎭
 Você escreve uma expressão gigante e o resultado dá -422.9. Você entra em pânico. Por quê? Porque o JavaScript segue uma hierarquia de poder mais rígida que a Família Real Britânica. Multiplicação manda mais que soma, e os Parênteses são os imperadores absolutos.
 O Conceito 'Para Humanos' 🗣️
+```
+Javascript
 Se você não usar parênteses (), o JavaScript vai decidir por conta própria o que calcular primeiro. Geralmente ele faz:
  * Parênteses (O Rei)
  * Exponenciação (O Duque)
@@ -83,12 +85,12 @@ let resultadoCaotico = 10 + 5 * 2;
 // O jeito certo (Dê poder aos parênteses!)
 let resultadoOrganizado = (10 + 5) * 2; 
 console.log(resultadoOrganizado); // 30 -> Agora sim, a matemática faz sentido.
-
-## O Pulo do Gato 🐱‍👤
 ```
-Javascript
+## O Pulo do Gato 🐱‍👤
 Curto-Circuito (Short-circuiting): Sabia que o JavaScript é preguiçoso? No operador || (OR), se o primeiro item já for verdadeiro, ele nem olha o resto!
 Isso é usado para definir valores padrão de forma elegante:
+```
+Javascript
 let nomeUsuario = ""; // Usuário não digitou nada
 let login = nomeUsuario || "Visitante Anônimo"; 
 
