@@ -33,6 +33,8 @@ O Conceito 'Para Humanos' 🗣️
  * != vs !==: O "não é igual". Mesma regra: use sempre os três tracinhos para não ter surpresas.
  * ">", "<", ">=", "<=": Os clássicos "maior que" e "menor que".
 ## O Código 'Vida Real' 💻
+```
+Javascript
 const salarioDev = 5000;
 const boletoVencido = "5000";
 
@@ -45,7 +47,7 @@ if (salarioDev === Number(boletoVencido)) {
 } else {
     console.log("Tipos diferentes! Meu dinheiro está seguro (por enquanto).");
 }
-
+```
 ## 4.3. Operadores Lógicos: O Interrogatório 🕵️‍♂️
 ## A Tragédia 🎭
 Os operadores lógicos são usados para tomar decisões complexas. O problema é que o ser humano médio não sabe usar o "E" (&&) e o "OU" (||) direito. Você diz: "Só saio se tiver sol E eu tiver dinheiro". Se tiver sol mas você estiver quebrado, você fica em casa. O JavaScript leva isso ao pé da letra, como um robô obsessivo-compulsivo.
