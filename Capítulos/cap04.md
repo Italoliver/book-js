@@ -22,7 +22,7 @@ console.log(`Sobrou ${sobraDoChef} fatia solitária.`); // Sobrou 1
 let total = 10 + "5"; 
 console.log(total); // "105" -> O JS desistiu da matemática e virou artesão de texto.
 
-4.2. Comparações: O Tinder do Código 💘
+## 4.2. Comparações: O Tinder do Código 💘
 A Tragédia 🎭
 Existe uma briga milenar no JavaScript entre o == (Igualdade Solta) e o === (Igualdade Estrita). O == é aquele seu amigo que diz que "está chegando" quando ainda está no banho. Ele aceita qualquer coisa. O === é o segurança de balada VIP que confere o RG, o CPF e o tipo sanguíneo.
 O Conceito 'Para Humanos' 🗣️
@@ -44,8 +44,8 @@ if (salarioDev === Number(boletoVencido)) {
     console.log("Tipos diferentes! Meu dinheiro está seguro (por enquanto).");
 }
 
-4.3. Operadores Lógicos: O Interrogatório 🕵️‍♂️
-A Tragédia 🎭
+## 4.3. Operadores Lógicos: O Interrogatório 🕵️‍♂️
+## A Tragédia 🎭
 Os operadores lógicos são usados para tomar decisões complexas. O problema é que o ser humano médio não sabe usar o "E" (&&) e o "OU" (||) direito. Você diz: "Só saio se tiver sol E eu tiver dinheiro". Se tiver sol mas você estiver quebrado, você fica em casa. O JavaScript leva isso ao pé da letra, como um robô obsessivo-compulsivo.
 O Conceito 'Para Humanos' 🗣️
  * && (AND): Exigente. Todo mundo tem que ser true para ele sorrir.
@@ -66,7 +66,7 @@ const estouCansado = true;
 const vouMaratonarSérie = eFinalDeSemana || estouCansado;
 console.log(vouMaratonarSérie); // true -> Qualquer desculpa serve!
 
-4.4. Precedência: Quem Manda na Bagunça? 👑
+## 4.4. Precedência: Quem Manda na Bagunça? 👑
 ## A Tragédia 🎭
 Você escreve uma expressão gigante e o resultado dá -422.9. Você entra em pânico. Por quê? Porque o JavaScript segue uma hierarquia de poder mais rígida que a Família Real Britânica. Multiplicação manda mais que soma, e os Parênteses são os imperadores absolutos.
 O Conceito 'Para Humanos' 🗣️
