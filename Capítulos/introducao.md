@@ -1,6 +1,6 @@
 # Saudações, jovem padawan do ponto-e-vírgula opcional! 📜🧙‍♂️
 Prepare o seu café (ou energético, não julgamos vícios aqui), pois você acaba de entrar no laboratório do Alquimista do JavaScript. Esqueça aqueles manuais que parecem escritos por um robô deprimido dos anos 90. Se você queria uma introdução padrão, sinto informar: você errou o repositório. Aqui, a gente transmuta erro de sintaxe em ouro digital e rimos na cara do null.
-Vamos reescrever essa sua introdução com o tempero da senioridade sarcástica.
+
 ## 🏰 Introdução: O Despertar do Manipulador de DOM
 ### A Tragédia 🎭
 Aprender JavaScript é como tentar montar um móvel do IKEA no escuro, seguindo instruções escritas em élfico, enquanto o móvel tenta ativamente te morder. Num momento, 1 + 1 é 2. No momento seguinte, "1" + 1 vira "11" e você começa a questionar se a realidade é uma simulação mal programada. O JavaScript é aquela criança hiperativa da web: ele é bagunçado, não segue regras muito bem, mas se ele parar de correr, a internet inteira desmorona.
