@@ -24,7 +24,7 @@
 - Como conectar JavaScript ao HTML
 #### Aqui o leitor monta seu primeiro ambiente de desenvolvimento. Você explica como instalar um editor de código, usar o console do navegador, criar arquivos HTML e JS e conectar os dois. O objetivo é deixar tudo pronto para começar a programar sem complicações.
 
-## [Cap03 - Variáveis e tipos de dados](.md)
+## [Cap03 - Variáveis e tipos de dados](Capítulos/cap03.md)
 - `let`, `const` e `var`
 - Tipos primitivos
 - Boas práticas de nomeação
