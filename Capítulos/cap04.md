@@ -9,7 +9,9 @@ Os operadores matemáticos são os básicos da escola, mas com alguns convidados
  * +, -, *, /: Os quatro cavaleiros do apocalipse aritmético.
  * % (Módulo): Não é porcentagem! É o "resto da divisão". Pense nele como o que sobra da pizza depois que todo mundo comeu fatias iguais.
  * ** (Exponenciação): Para quando você quer elevar algo ao quadrado, ao cubo, ou ao infinito.
-O Código 'Vida Real' 💻
+## O Código 'Vida Real' 💻
+```
+Javascript
 const fatiasDePizza = 10;
 const amigosFuraOlho = 3;
 
@@ -21,7 +23,7 @@ console.log(`Sobrou ${sobraDoChef} fatia solitária.`); // Sobrou 1
 // Cuidado com a "Gangue da String"
 let total = 10 + "5"; 
 console.log(total); // "105" -> O JS desistiu da matemática e virou artesão de texto.
-
+```
 ## 4.2. Comparações: O Tinder do Código 💘
 A Tragédia 🎭
 Existe uma briga milenar no JavaScript entre o == (Igualdade Solta) e o === (Igualdade Estrita). O == é aquele seu amigo que diz que "está chegando" quando ainda está no banho. Ele aceita qualquer coisa. O === é o segurança de balada VIP que confere o RG, o CPF e o tipo sanguíneo.
