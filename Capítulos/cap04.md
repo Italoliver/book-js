@@ -27,7 +27,7 @@ console.log(total); // "105" -> O JS desistiu da matemática e virou artesão de
 ## 4.2. Comparações: O Tinder do Código 💘
 A Tragédia 🎭
 Existe uma briga milenar no JavaScript entre o == (Igualdade Solta) e o === (Igualdade Estrita). O == é aquele seu amigo que diz que "está chegando" quando ainda está no banho. Ele aceita qualquer coisa. O === é o segurança de balada VIP que confere o RG, o CPF e o tipo sanguíneo.
-O Conceito 'Para Humanos' 🗣️
+## O Conceito 'Para Humanos' 🗣️
  * ==: Compara apenas o valor. "5" == 5 é verdadeiro (True). É perigoso, fuja dele!
  * ===: Compara valor E tipo. "5" === 5 é falso (False). É o padrão ouro.
  * != vs !==: O "não é igual". Mesma regra: use sempre os três tracinhos para não ter surpresas.
